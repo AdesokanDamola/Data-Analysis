@@ -1,5 +1,4 @@
 # Data-Driven Insights for Pizza Place Sales: EDA and Recommendations 🍕📈
-This repository contains details of my analysis and recommendations on the "pizza place dataset"
 
 # Introduction
 In this project, I dived into a year's worth of sales data from a fictitious pizza place to uncover valuable insights that can drive business decisions and boost revenue. 
